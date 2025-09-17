@@ -10,8 +10,8 @@ https://play.google.com/store/apps/details?id=com.DEGI.JAMRUSH
 
 * 담당 업무
   강희승 : 서브기획  
-  박소빈 : 
-  안제철 :
+  박소빈 :  
+  안제철 :  
   이지호 : 기본 발사 로직 및 아이템 기능 구현, Firebase 데이터 연동  
 
 *  🎮 [게임 방법]  
