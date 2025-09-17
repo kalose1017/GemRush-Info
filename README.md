@@ -9,8 +9,8 @@
 https://play.google.com/store/apps/details?id=com.DEGI.JAMRUSH   
 
 * 담당 업무
-  강희승 : 서브기획  
-  박소빈 :  
+  강희승 : UI 기획 및 QA Test case 작성 / 버그리포트 작성   
+  박소빈 : 
   안제철 :  
   이지호 : 기본 발사 로직 및 아이템 기능 구현, Firebase 데이터 연동  
 
