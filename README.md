@@ -9,10 +9,10 @@
 https://play.google.com/store/apps/details?id=com.DEGI.JAMRUSH   
 
 * [담당 업무]  
-  강희승 : UI 기획 및 QA Test case 작성 / 버그리포트 작성     
-  박소빈 : 
-  안제철 :  
-  이지호 : 기본 발사 로직 및 아이템 기능 구현, Firebase 데이터 연동  
+  안제철(팀장) : 게임 시스템 전체 기획 및 QA 프로젝트 매니저     
+  강희승 : UI 기획 및 QA Test case 작성 / 버그리포트 작성       
+  박소빈 : GPGS와 게임 연동 및 Google Ads 광고 출력 구현 / 광물 합성 및 랭킹 시스템 구현 / 버그 수정    
+  이지호 : 기본 발사 로직 및 아이템 기능 구현 / Firebase 서버 트리 구현 및 데이터 연동 / 버그 수정   
 
 * [게임 방법]    
 • 🎯 대포의 총구 방향을 보고 화면을 터치해 광물을 발사하세요!  
